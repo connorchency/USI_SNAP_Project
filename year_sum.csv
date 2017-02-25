@@ -1,0 +1,31 @@
+,BoroName,Year,TotalFoodStamp
+0,Bronx,2009,92971
+1,Bronx,2010,133714
+2,Bronx,2011,147009
+3,Bronx,2012,159860
+4,Bronx,2013,170807
+5,Bronx,2014,178713
+6,Brooklyn,2009,143698
+7,Brooklyn,2010,169644
+8,Brooklyn,2011,182460
+9,Brooklyn,2012,200218
+10,Brooklyn,2013,213576
+11,Brooklyn,2014,220205
+12,Manhattan,2009,71751
+13,Manhattan,2010,82243
+14,Manhattan,2011,88306
+15,Manhattan,2012,94564
+16,Manhattan,2013,98037
+17,Manhattan,2014,102202
+18,Queens,2009,59328
+19,Queens,2010,81582
+20,Queens,2011,91377
+21,Queens,2012,99728
+22,Queens,2013,107383
+23,Queens,2014,111533
+24,Staten Island,2009,11234
+25,Staten Island,2010,13762
+26,Staten Island,2011,15556
+27,Staten Island,2012,17518
+28,Staten Island,2013,19136
+29,Staten Island,2014,20276
